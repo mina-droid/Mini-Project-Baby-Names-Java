@@ -13,3 +13,5 @@ VERSION or DATE: Version: 1 Date : Oct 18/2020
 AUTHORS: Duke University
 USER INSTRUCTIONS:
 run tests from 1 to 7 according to the function you want to try!
+
+This Project is part from duke's java course Java Programming Solving Problems with Software
